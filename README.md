@@ -1,7 +1,7 @@
 
 # Contact-Management-App-REST-API
 
-A ready-to-use boilerplate for contact mangement application REST API Development with Node.js, Express, JWT and MongoDB.
+A ready-to-use boilerplate for contact management application REST API Development with Node.js, Express, JWT and MongoDB.
 This is a basic API skeleton written in JavaScript. Very useful to building a RESTful web APIs for your front-end platforms like JavaScript frameworks (Angular, Reactjs, etc).This project will run on NodeJs using MongoDB as database. I had tried to maintain the code structure easy as any beginner can also adopt the flow and start building an API.
 
 
